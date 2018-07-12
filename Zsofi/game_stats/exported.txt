@@ -1,0 +1,5 @@
+There are 24 games in the file.
+The file contains at least one game released in 2004.
+Diablo III is among the latest games in the file.
+The file contains 5 games in the genre 'RPG'.
+The game Age of Empires is in line number 20.

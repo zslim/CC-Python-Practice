@@ -1,0 +1,11 @@
+The most played game is Minecraft.
+187.16 million copies were sold in total.
+The average selling is 7.80 million copies.
+The length of the longest game title in the file is 52.
+The 'average' of the release dates is 2003, whatever that means.
+Properties of the entered game:
+Title:                         Half-Life 2         
+Total copies sold (million):   12.0                
+Release date:                  2004                
+Genre:                         First-person shooter
+Publisher:                     Valve Corporation   
