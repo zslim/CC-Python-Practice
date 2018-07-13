@@ -8,8 +8,8 @@ Welcome! :) Please follow these steps to contribute:
 3. Put your code in there that you would like to share with the others.
   * Be sure to exclude `.git` folders from copied material, we don't want nested git repos.
   * This can be done if you don't copy whole folders but create the folders in the repo by hand and then copy the files from your original folder by hand - without hidden objects like `.git`.
-4. Go back to the repo root folder (CC-codes) and commit the changes.
-5. Go `git pull`
+4. Go back to the repo root folder (CC-codes) and do a `git pull`. 
+5. Commit your changes (the usual way: `git add .` first and then `git commit-m "added my code"` or something.
 6. Go `git push`
 
 You're done! \o/
