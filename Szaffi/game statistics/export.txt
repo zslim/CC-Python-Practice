@@ -1,0 +1,6 @@
+24
+True
+Diablo III
+4
+11
+['Survival game', 'Real-time strategy', 'RPG', 'Action-adventure', 'Sandbox', 'Simulation', 'First-person shooter']
