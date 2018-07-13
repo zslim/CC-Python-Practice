@@ -17,7 +17,6 @@ You're done! \o/
 Additional rules in order to avoid merge conflicts:
 * Please only modify your own folder in the repo
 * If you choose a piece of code from someone else that you would refactor please copy it somewhere else before you modify it
-  * Either create a `refactor` folder in you folder in this repo and modify code from others there
-  * Or copy it somewhere outside this repository
+  * It's best if you copy it somewhere outside this repository so that you can pull down newly added code without having to commit your changes while you refactor.
 
 Happy refactoring! :)
