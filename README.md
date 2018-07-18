@@ -14,9 +14,14 @@ Welcome! :) Please follow these steps to contribute:
 
 You're done! \o/
 
-Additional rules in order to avoid merge conflicts:
-* Please only modify your own folder in the repo
-* If you choose a piece of code from someone else that you would refactor please copy it somewhere else before you modify it
-  * It's best if you copy it somewhere outside this repository so that you can pull down newly added code without having to commit your changes while you refactor.
+Additional rules in order to avoid merge conflicts and keep this repo tidy:
+* Please only modify your own folder in the repo.
+  * Do not put new code into anyone else's directory
+  * **Do not refactor code in the folder where it has been uploaded.** We need to allow everybody to see practice code in it's original form.
+* Please avoid tracking files that are not pieces of code to be refactored. Anything else is irrelevant for the rest of the group.
+  * If you want to put something like that into any folder under CC-codes please include the folder name in `.gitignore`.
+  * I already added '\*refactoring/' to `.gitignore` so you can create a directory anywhere in the repo called refactoring and it will not be tracked. If you decide to do this, please put this folder into the root or into your own directory. You can put your chosen practice code there and git will not care about it.
+  * Alternatively, you can copy the code you want to refactor somewhere outside this repository. It's a simple and elegant solution. :)
+
 
 Happy refactoring! :)
